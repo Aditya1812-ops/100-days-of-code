@@ -1,0 +1,6 @@
+# Compiled C files
+*.o
+*.out
+
+# macOS
+.DS_Store
